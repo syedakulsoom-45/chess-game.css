@@ -1,0 +1,21 @@
+h1{
+
+    background-color: #538260;
+}
+.a{
+    display: inline-block;
+    background-color: #538260;
+    width: 30px;
+    height: 20px;
+    margin: -1px;
+    text-align: center;
+  
+}
+.b{ 
+    display: inline-block;
+    background-color:#ededc2;
+    width: 30px;
+    height: 20px;
+  margin: -1px;
+  text-align: center;
+    }
